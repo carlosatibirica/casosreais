@@ -32,6 +32,9 @@ Painel de Acompanhamento de Influenza
 http://extranet.saude.go.gov.br/influenza
 Enviado por: Carlos Augusto Gonçalves Tibiriçá - carlos.tibirica@saude.go.gov.br<BR>
 
+Painel de Acompanhamento de Mortalidade(SIM)
+http://extranet.saude.go.gov.br/public/sim.html
+
 ###TCE-SP
 http://iegm.tce.sp.gov.br/<BR>
 Enviado por: Rodrigo Porto<BR>
